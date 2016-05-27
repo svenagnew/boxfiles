@@ -1,0 +1,2 @@
+ubuntu-12.04.virtualbox.box filter=lfs diff=lfs merge=lfs -text
+ubuntu-14.04.02-amd64.box filter=lfs diff=lfs merge=lfs -text
